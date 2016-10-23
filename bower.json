@@ -1,0 +1,17 @@
+{
+  "name": "test_e",
+  "description": "test",
+  "main": "test.js",
+  "keywords": [
+    "test"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
